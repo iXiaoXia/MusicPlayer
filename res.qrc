@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC>
+    <qresource prefix="/musics">
+        <!-- 使用 alias 属性将中文文件名映射为简单的英文别名 -->
+        <file alias="heartbeat.mp3">Musics/张叶蕾 - 心跳.mp3</file>
+        <file alias="dusk_fade.mp3">Musics/王天戈 - 黄昏褪色.mp3</file>
+        <file alias="parallel_line.mp3">Musics/碎念喃语 &amp; 柠安 - 平行线.mp3</file>
+        <file alias="wind_blows.mp3">Musics/苏星婕 - 风吹过八千里.mp3</file>
+        <file alias="lifelong_regret.mp3">Musics/青鸟飞鱼 - 此生不换.mp3</file>
+    </qresource>
+</RCC>
